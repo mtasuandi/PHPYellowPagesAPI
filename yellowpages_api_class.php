@@ -11,7 +11,7 @@ require_once('yellowpages_api_request.php');
 
 class YellowPagesAPI{
 
-	private $api_key	= 'de33b4963d3147f80877393d1eb9475e';
+	private $api_key	= '';
 	
 	private function verifyResponse($response){
 	
